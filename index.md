@@ -26,6 +26,8 @@ Signed,
 
 [AlphaHot](https://github.com/AlphaHot)
 
+[Andrew A. Philippov](https://github.com/andrew-phi)
+
 [hrg71](https://github.com/hrg71)
 
 [nukeop](https://github.com/nukeop)
@@ -148,9 +150,4 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
-[киберджин](https://github.com/codefather-labs)
-
 [Adam Katz](https://github.com/dial8gue)
-
-[Daniel](https://github.com/Zuzuk-null
-
